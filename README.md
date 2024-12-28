@@ -2,7 +2,7 @@
 
 This is an [Inkscape](https://inkscape.org/) plugin for the bulk export of application icons in multiple sizes.  
 Originally created by [@ScreamingTaco](https://github.com/ScreamingTaco) and later updated by
-[@firephreek](https://github.com/firephreek).
+[@firephreek](https://github.com/firephreek). I've just added 512px size for Windows.
 These contributors made life significantly easier for others.
 
 ## WARNING

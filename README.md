@@ -1,8 +1,9 @@
 # Inkscape App Icon Generator
 
 This is an Inkscape plugin for the bulk export of application icons in multiple sizes.  
-Originally created by @ScreamingTaco and later updated by @firephreek, 
-these contributors made life significantly easier for others.
+Originally created by [@ScreamingTaco](https://github.com/ScreamingTaco) and later updated by
+[@firephreek](https://github.com/firephreek).
+These contributors made life significantly easier for others.
 
 ## WARNING
 

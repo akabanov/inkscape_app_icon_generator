@@ -7,10 +7,7 @@ These contributors made life significantly easier for others.
 
 ## WARNING
 
-This repository is not actively maintained, and by the time you are reading this, 
-it might already be obsolete or incompatible with the latest version of Inkscape.  
-
-Additionally, this repository might be deleted at any time.
+This plugin is OBSOLETE and is NO LONGER COMPATIBLE with the latest version of Inkscape.  
 
 ## Installation
 
